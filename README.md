@@ -1,1 +1,1 @@
-<h1>Stone paper scissor Link:https://hassaan-munawar.github.io/Stone-paper-scissor</h1>
+<h1>Stone paper scissor Link:https://rockpeper.netlify.app</h1>
